@@ -1,0 +1,2 @@
+#!/bin/dash
+uniq -D iacta | tail -1
